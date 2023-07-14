@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@my-scope/private-package-test": "1.0.0"
+    "@my-scope/private-package-test": "1.0.0",
+    "juicy-chat-bot": "0.6.6",
+    "marsdb": "^0.6.11"
   },
   "author": "",
   "license": "ISC"
