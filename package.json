@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@my-scope/private-package-test": "1.0.0",
-    "@my-scope/juicy-chat-bot": "0.6.6",
+    "@my-scope/juicy-chat-bot": "0.6.5",
     "marsdb": "^0.6.11"
   },
   "author": "",
